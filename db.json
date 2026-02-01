@@ -8,7 +8,36 @@
         "state": "California",
         "zip": "18301"
       },
-      "username": "doxer1337"
+      "fullname": "DOXINGUY",
+      "fullsurname": "YAYIWILLHACKTHISITEUP",
+      "username": "doxer1337",
+      "balance": "777777"
+    },
+    {
+        "id": 2,
+        "address": {
+            "street": "Freddy Fazbear's Home 057",
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62701"
+        },
+        "fullname": "anonymous",
+        "fullsurname":  "onethreethreesevensixseven",
+        "username": "uwu2917",
+        "balance": "20988"
+    },
+    {
+        "id": 3,
+        "address": {
+            "street": "Kozak's Home 104",
+            "city": "Boryspil",
+            "state": "Kyivska Oblast'",
+            "zip": "07097"
+        },
+        "fullname": "anonymous",
+        "fullsurname":  "onethreethreesevensixseven",
+        "username": "AHOHNMYC338",
+        "balance": "175911"
     }
   ]
 }
