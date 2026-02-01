@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "address": {
+        "street": "Freddy Fazbear's Home 123",
+        "city": "Hawaii",
+        "state": "California",
+        "zip": "18301"
+      },
+      "username": "doxer1337"
+    }
+  ]
+}
