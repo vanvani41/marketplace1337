@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": 0,
       "address": {
         "street": "Freddy Fazbear's Home 123",
         "city": "Hawaii",
@@ -15,7 +15,7 @@
       "balance": "777777"
     },
     {
-        "id": 2,
+        "id": 1,
         "address": {
             "street": "Freddy Fazbear's Home 057",
             "city": "Springfield",
@@ -29,7 +29,7 @@
         "balance": "20988"
     },
     {
-        "id": 3,
+        "id": 2,
         "address": {
             "street": "Kozak's Home 104",
             "city": "Boryspil",
